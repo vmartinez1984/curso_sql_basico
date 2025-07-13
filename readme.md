@@ -1,5 +1,5 @@
 # Bases de datos
-Este un cruso de sql básico, se aprenderan los conceptos y el uso de herramientas para el uso de las bases de datos
+Este un curso de sql básico, se aprenderan los conceptos y el uso de herramientas para el uso de las bases de datos
 
 # Instalación de software
 
