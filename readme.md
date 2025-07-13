@@ -32,5 +32,8 @@ https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-softw
 ## Todo
 - [ ] Colocar el script de dispositivos
 - [ ] Colocar el script de world-x
+- [ ] Hacer el punto select having y group by
+- [ ] Hacer el punto de vistas
+- [ ] Planear las horas
 
 (Ver MongoDb para ampliar el panorama)
