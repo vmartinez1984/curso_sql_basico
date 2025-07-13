@@ -1,39 +1,36 @@
 # Bases de datos
-Un sistema gestor de base de datos (SGBD), es un software que gestiona una o más bases de datos y nos permite explotar la información almacenada en ellas de una forma relativamente simple.
+Este un cruso de sql básico, se aprenderan los conceptos y el uso de herramientas para el uso de las bases de datos
 
-Ejemplos de SGBD: Oracle, MySql, Sqlite, MS Sql server, Postgress, Sqlite
+# Instalación de software
 
-## Estructura 
-- Tabla
-- Registro
-- Campo
+- Docker
+- Instancia de MySql o MariaDB
+- HeidiSql
+- Visual Studio Code
 
-Ejemplos de tablas
+Para detalles consulte:
+https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-software
 
-## DDL, DML, DCL
+# Temario
 
-El lenguaje de definición de datos (DDL) describe la parte de SQL que crea, altera y suprime objetos de base de datos. Estos objetos de base de datos incluyen esquemas, tablas, vistas, secuencias, catálogos, índices, variables, máscaras, permisos y alias.
+- Introducción
 
-El lenguaje de manipulación de datos (DML) describe la parte de SQL que manipula o controla los datos.
+    https://github.com/vmartinez1984/curso_sql_basico/wiki/1-Introducci%C3%B3n
 
-Como administrador de seguridad de la base de datos, utiliza los comandos SQL del lenguaje de control de datos (DCL) para controlar el acceso de usuario a los objetos de base de datos y a su contenido.
-La seguridad comienza con el usuario administrativo. Como usuario administrativo, debe crear y autorizar a otros usuarios. Cuando crea usuarios por primera vez, no pueden ver o hacer nada. Cuando otorga a los usuarios más privilegios, ellos pueden acceder a más objetos de base de datos.
+    https://docs.google.com/presentation/d/1n9KTl94Woi1zX0tW556ee6QqEnlx_Cji/edit?usp=sharing&ouid=114501817188063385207&rtpof=true&sd=true
 
-Cuando crea usuarios, de forma predeterminada, ellos solo tienen acceso a las vistas del sistema. Con estas vistas, ellos pueden recuperar listas de objetos de base de datos de usuario y seleccionar datos dentro de esos objetos. Como la seguridad también se compila en estas vistas de sistema, la lista de objetos de base de datos que puede ver un usuario depende de los privilegios de seguridad del usuario
 
-https://www.ibm.com/docs/es/i/7.5.0?topic=programming-data-definition-language
-https://www.ibm.com/docs/es/i/7.5.0?topic=programming-data-manipulation-language
-https://www.ibm.com/docs/es/psfa/7.1.0?topic=categories-data-control-language
+- Definición de datos
 
-# Definicion de tipo de datos
-Ejemplo de tablas de bases de datos
-Como se puede apreciar en las imagenes anteriores, cada tabla en las columnas coinciden con un tipo de dato: texto, numeros, fechas
+- Manipulación de datos
+- Selección de datos
+- Funciones de utilidad
+- Subconsultas y vistas
+- Joins
 
-## Tipos de datos numéricos exactos
 
-## Tipos de datos numéricos aproximados
-## Tipos de datos carácter
-## Booleanos
-## Fecha y hora
+## Todo
+- [ ] Colocar el script de dispositivos
+- [ ] Colocar el script de world-x
 
 (Ver MongoDb para ampliar el panorama)
