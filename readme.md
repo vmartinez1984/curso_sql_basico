@@ -30,8 +30,9 @@ https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-softw
 
 
 ## Todo
-- [ ] Colocar el script de dispositivos
-- [ ] Colocar el script de world-x
+- [X] Script de dispositivos
+- [X] Script de world-x
+- [X] Script de codigos postales
 - [ ] Hacer el punto select having y group by
 - [ ] Hacer el punto de vistas
 - [ ] Planear las horas
