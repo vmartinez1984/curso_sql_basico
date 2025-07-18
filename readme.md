@@ -36,5 +36,28 @@ https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-softw
 - [ ] Hacer el punto select having y group by
 - [ ] Hacer el punto de vistas
 - [ ] Planear las horas
+- [X] Presentación 1 Introducción
+    - [ ] Practica de datos relacionales, a mano y luego en software
+    - [ ] Preparar Maquina virtual para la instalación de software
+    - [ ] Hacer instructivo para subir repo a Github    
+- [ ] Presentación 2 Definición de datos
+    - [ ] Practicas
+- [ ] Presentación 3 Administración de datos
+    - [ ] Practicas
+- [ ] Presentación 4 Selección de datos
+    - [ ] Practicas
+- [ ] Presentación 5 Funciones de utilidad
+    - [ ] Practicas
+- [ ] Presentación 6 Subconsultas y Vistas
+    - [ ] Practicas
+- [ ] Presentación 7 Joins
+    - [ ] Practicas
+
+- [ ] Guide for install Postgress
+- [ ] Guide for install Sql Server
+- [ ] Quick practice for Sqlite
+- [ ] Guide for install Oracle
+    
+
 
 (Ver MongoDb para ampliar el panorama)
