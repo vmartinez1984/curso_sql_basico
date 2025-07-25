@@ -36,11 +36,12 @@ https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-softw
 - [ ] Hacer el punto select having y group by
 - [ ] Hacer el punto de vistas
 - [ ] Planear las horas
+- [ ] Instructivo de instalación XAMP
 - [X] Presentación 1 Introducción
     - [ ] Practica de datos relacionales, a mano y luego en software
     - [ ] Preparar Maquina virtual para la instalación de software
     - [ ] Hacer instructivo para subir repo a Github    
-- [ ] Presentación 2 Definición de datos
+- [x] Presentación 2 Definición de datos
     - [ ] Practicas
 - [ ] Presentación 3 Administración de datos
     - [ ] Practicas
@@ -57,6 +58,8 @@ https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-softw
 - [ ] Guide for install Sql Server
 - [ ] Quick practice for Sqlite
 - [ ] Guide for install Oracle
+https://agustinwawrzyk.medium.com/ejecutando-oracle-database-23c-free-release-en-docker-2934c7a7baba
+
     
 
 
