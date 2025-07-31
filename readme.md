@@ -14,30 +14,26 @@ https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-softw
 # Temario
 
 - Introducción
-
-    https://github.com/vmartinez1984/curso_sql_basico/wiki/1-Introducci%C3%B3n
-
-    [https://docs.google.com/presentation/d/1n9KTl94Woi1zX0tW556ee6QqEnlx_Cji/edit?usp=sharing&ouid=114501817188063385207&rtpof=true&sd=true](https://docs.google.com/presentation/d/1n9KTl94Woi1zX0tW556ee6QqEnlx_Cji/edit?slide=id.p1#slide=id.p1)
-
-    Demo de la persistencia de datos Lista de alumnos
-  
-    Practica de modelado Persona en https://app.quickdatabasediagrams.com
-
-    Instalación de Xampp https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-Xampp
-
-    Instalcion de HeidiSql https://github.com/vmartinez1984/curso_sql_basico/wiki/Heidi-Sql
-
-    Practica con HeidiSql db pruebas tabla persona   
-
+   - https://github.com/vmartinez1984/curso_sql_basico/wiki/1-Introducci%C3%B3n
+    - [https://docs.google.com/presentation/d/1n9KTl94Woi1zX0tW556ee6QqEnlx_Cji/edit?usp=sharing&ouid=114501817188063385207&rtpof=true&sd=true](https://docs.google.com/presentation/d/1n9KTl94Woi1zX0tW556ee6QqEnlx_Cji/edit?slide=id.p1#slide=id.p1)
+    - Demo de la persistencia de datos Lista de alumnos https://docs.google.com/spreadsheets/d/1oALOrnbeALqfQ30-z5rl6EqVezhrftg2k_00b5qJKC4/edit?gid=0#gid=0  
+    - Practica de modelado Persona en https://app.quickdatabasediagrams.com
+    - Instalación de Xampp https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-Xampp
+    - Instalcion de HeidiSql https://github.com/vmartinez1984/curso_sql_basico/wiki/Heidi-Sql
+    - Practica con HeidiSql db pruebas tabla persona   
 
 - Definición de datos
-
-  Practica de modelado producto, venta y detalle en https://app.quickdatabasediagrams.com
-
-  Practica en Heidi de producto, venta y detalle
-
+    - Practica de modelado producto, venta y detalle en https://app.quickdatabasediagrams.com
+    - Practica en Heidi de producto, venta y detalle
+    - [ ] Demo en diferentes entornos
+  
 - Manipulación de datos
+    - [ ] Sakila
+    - [ ] World -x
+    - [ ] Códigos Postales
+    - [ ] Dispositivos
 - Selección de datos
+  
 - Funciones de utilidad
 - Subconsultas y vistas
 - Joins
