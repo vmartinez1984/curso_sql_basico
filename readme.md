@@ -2,7 +2,6 @@
 Este un curso de sql básico, se aprenderan los conceptos y el uso de herramientas para el uso de las bases de datos
 
 # Instalación de software
-
 - Docker
 - Instancia de MySql o MariaDB
 - HeidiSql
@@ -73,9 +72,7 @@ Fechas tentativas: 12, 19 y 26 agosto y 2 septiembre
 - [X] Script de world-x
 - [X] Script de codigos postales
 - [ ] Script de Dispositivos
-- [ ] Hacer el punto select having y group by
-- [ ] Hacer el punto de vistas
-- [ ] Planear las horas
+- [x] Planear las horas
 - [x] Instructivo de instalación XAMP
 - [X] Presentación 1 Introducción    
     - [x] Preparar Maquina virtual para la instalación de software
