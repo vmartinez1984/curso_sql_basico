@@ -17,10 +17,24 @@ https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-softw
 
     https://github.com/vmartinez1984/curso_sql_basico/wiki/1-Introducci%C3%B3n
 
-    https://docs.google.com/presentation/d/1n9KTl94Woi1zX0tW556ee6QqEnlx_Cji/edit?usp=sharing&ouid=114501817188063385207&rtpof=true&sd=true
+    [https://docs.google.com/presentation/d/1n9KTl94Woi1zX0tW556ee6QqEnlx_Cji/edit?usp=sharing&ouid=114501817188063385207&rtpof=true&sd=true](https://docs.google.com/presentation/d/1n9KTl94Woi1zX0tW556ee6QqEnlx_Cji/edit?slide=id.p1#slide=id.p1)
+
+    Demo de la persistencia de datos Lista de alumnos
+  
+    Practica de modelado Persona en https://app.quickdatabasediagrams.com
+
+    Instalación de Xampp https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-Xampp
+
+    Instalcion de HeidiSql https://github.com/vmartinez1984/curso_sql_basico/wiki/Heidi-Sql
+
+    Practica con HeidiSql db pruebas tabla persona   
 
 
 - Definición de datos
+
+  Practica de modelado producto, venta y detalle en https://app.quickdatabasediagrams.com
+
+  Practica en Heidi de producto, venta y detalle
 
 - Manipulación de datos
 - Selección de datos
