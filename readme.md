@@ -48,17 +48,17 @@ Fechas tentativas: 11 - 15 y 18 - 12 agosto
 |------------------------------------|-------|----------|--------|-----------|
 | Introducción                       | 2     | Lunes    | 1      | 2 |
 | Definición de datos, Tipos         | 2     | Martes   | 1      | 4 |
-| Definición de datos, Tablas        | 1     | Miercoles| 1      | *5* |
+| Definición de datos, Tablas        | 1     | Miercoles| 1      | **5** |
 | Definición de datos, Indices       | 1     | Miercoles| 2      | 6 |
 | Manipulación de datos              | 2     | Jueves   | 2      | 8   |
-| Selección de datos, simples        | 2     | Viernes  | 2      | *10*|
+| Selección de datos, simples        | 2     | Viernes  | 2      | **10**|
 | Selección de datos, operadores sql | 2     | Lunes    | 3      | 12 |
 | Selección de datos, having         | 1     | Martes   | 3      | 13 |
 | Selección de datos, funciones 1    | 1     | Martes   | 3      | 14 |
-| Selección de datos, funciones 2    | 1     | Miercoles| 3      | *15* |
+| Selección de datos, funciones 2    | 1     | Miercoles| 3      | **15** |
 | Subconsultas                       | 1     | Miercoles| 4      | 16 |
 | Vistas                             | 2     | Jueves   | 4      | 18 |
-| Joins                              | 2     | Viernes  | 4      | *20 | 
+| Joins                              | 2     | Viernes  | 4      | **20** | 
 
    
 
