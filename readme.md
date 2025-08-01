@@ -49,7 +49,7 @@ Fechas tentativas: 11 - 15 y 18 - 12 agosto
 
 | Tema                               | Horas | Dias     | Semana | Acumulado | Actividades |
 |------------------------------------|-------|----------|--------|-----------|-------------|
-| Introducción                       | 2     | Lunes    | 1      | 2         | Instalación de software <br/> Explicación con google sheets <br> Diagramas <br> Practica en Heidi|
+| Introducción                       | 2     | Lunes    | 1      | 2         | Instalación de software <br/> Explicación con google sheets <br> Diagramas <br> Practica en Heidi <br> Script en github|
 | Definición de datos, Tipos         | 2     | Martes   | 1      | 4         ||
 | Definición de datos, Tablas        | 1     | Miercoles| 1      | **5**     ||
 | Definición de datos, Indices       | 1     | Miercoles| 2      | 6         ||
