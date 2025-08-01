@@ -27,6 +27,7 @@ https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-softw
     - [ ] Demo en diferentes entornos
   
 - Manipulación de datos
+    - https://docs.google.com/presentation/d/1K0sivMHxja1uXHZCrzmnDHqCK6IvrPtA/edit?slide=id.g373ff89b18d_0_12#slide=id.g373ff89b18d_0_12
     - [ ] Sakila
     - [ ] World -x
     - [ ] Códigos Postales
