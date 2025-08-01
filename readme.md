@@ -34,7 +34,7 @@ https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-softw
     - [ ] Dispositivos
     - [ ] Universidades
     - [ ] Museos
-    - [ ] Northwind
+    - [ ] Northwind  https://github.com/dalers/mywind  https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/northwind-pubs/instnwnd.sql
 - Selección de datos
   
 - Funciones de utilidad
