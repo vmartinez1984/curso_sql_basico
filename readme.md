@@ -51,7 +51,7 @@ Fechas tentativas: 11 - 15 y 18 - 12 agosto
 |------------------------------------|-------|----------|--------|-----------|-------------|
 | Introducción                       | 2     | Lunes    | 1      | 2         | Instalación de software <br/> Explicación con google sheets <br> Diagramas <br> Practica en Heidi <br> Script en github|
 | Definición de datos, Tipos         | 2     | Martes   | 1      | 4         | Modelado de bases de datos <br> Practica en HSql <br> Tabla de estado <br> Repo en github conceptos, un par de selects|
-| Definición de datos, Tablas        | 1     | Miercoles| 1      | **5**     | Modelado de bases de datos <br> Practica en HSql |
+| Definición de datos, Tablas        | 1     | Miercoles| 1      | **5**     | Modelado de bases de datos <br> Practica en HSql <br> Tarea instalar Docker |
 | Definición de datos, Indices       | 1     | Miercoles| 2      | 6         | Prácticas de entornos <br> Scripts de creación de tablas en github|
 | Manipulación de datos              | 2     | Jueves   | 2      | 8         | Practicas crud con las tablas cread <br> Carga de scritps|
 | Selección de datos, simples        | 2     | Viernes  | 2      | **10**    | Repo en github Select en las db creadas|
