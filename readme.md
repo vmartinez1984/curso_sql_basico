@@ -31,6 +31,9 @@ https://github.com/vmartinez1984/curso_sql_basico/wiki/Instalaci%C3%B3n-de-softw
     - [ ] World -x
     - [ ] Códigos Postales
     - [ ] Dispositivos
+    - [ ] Universidades
+    - [ ] Museos
+    - [ ] Northwind
 - Selección de datos
   
 - Funciones de utilidad
