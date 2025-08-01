@@ -84,7 +84,7 @@ Fechas tentativas: 12, 19 y 26 agosto y 2 septiembre
 - [x] Presentación 2 Definición de datos
     - [x] Practica de datos relacionales, a mano y luego en software
     - [x] Practicas
-- [ ] Presentación 3 Administración de datos
+- [X] Presentación 3 Administración de datos
     - [ ] Practicas
 - [ ] Presentación 4 Selección de datos
     - [ ] Practicas
